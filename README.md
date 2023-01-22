@@ -5,13 +5,16 @@ This GitHub Repository is the collection of all the Machine Learning and Deep Le
 ## Computer Vision Projects: 
 
   * 3-D Reconstruction
-    * NeRF
+    * NeRFs
+    * Light Fields 
   * Image Generation
     * GAN
-      * Style GAN
     * Diffusion Models
       * DDPM
   * Depth Prediction
+    * Transftormer - Dense Prediction Transformer
+    * U-Net
+    
   
 
 
