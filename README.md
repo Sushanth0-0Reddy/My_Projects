@@ -12,7 +12,7 @@ This GitHub Repository is the collection of all the Machine Learning and Deep Le
     * Diffusion Models
       * DDPM
   * Depth Prediction
-    * Transftormer - Dense Prediction Transformer
+    * Transformer - Dense Prediction Transformer
     * U-Net
     
   
