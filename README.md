@@ -14,6 +14,11 @@ This GitHub Repository is the collection of all the Machine Learning and Deep Le
   * Depth Prediction
     * Transformer - Dense Prediction Transformer
     * U-Net
+  * Object Detection
+     * Liscense Plate Recognition Yolov7
+     * Traffic Sign Recognition Yolo v7 and RCNN
+   
+
     
   
 
